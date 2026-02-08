@@ -16,9 +16,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/chanuth-dulmika-0621a7259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanuth-dulmika-0621a7259" height="30" width="40" /></a>
-  
 <a href="https://fb.com/chanuth.dulmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanuth.dulmika" height="30" width="40" /></a>
-
 <a href="https://instagram.com/chanuu_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanuu_d" height="30" width="40" /></a>
 </p>
 
