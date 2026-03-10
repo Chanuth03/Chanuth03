@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanuth Dulmika</h1>
 <h3 align="center">A passionate Web developer and Software Engineering student from Sri Lanka</h3>
+<!-- <h3 align="center">Currently working as a Software Enginner at Perfect Business Solution Services (PBSS)</h3> -->
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuth03&label=Profile%20views&color=0e75b6&style=flat" alt="chanuth03" /> </p>
@@ -11,6 +12,7 @@
 - 👯 I’m looking to collaborate on **Open-Source Software Development Projects**
 
 - 📫 How to reach me **chanuthdulmika@gmail.com**
+- 🎯 <a href= "https://portfolio-web-fawn-beta.vercel.app/"/>
 
 <h3 align="left">Connect with me:</h3>
 
