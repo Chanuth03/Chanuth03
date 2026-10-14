@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanuth Dulmika</h1>
 <h3 align="center">A passionate Web Developer and Software Engineering student from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chanuth03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <br />
 
 <div align="center">
